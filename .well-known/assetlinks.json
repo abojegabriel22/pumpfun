@@ -1,0 +1,32 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wallet.crypto.trustapp",
+      "sha256_cert_fingerprints": [
+        "2E:80:E5:64:39:08:6D:3D:35:24:D5:5E:8C:C4:CF:03:89:F2:20:36:7B:C8:99:2E:80:BE:F0:30:82:D3:37:4E"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.metamask",
+      "sha256_cert_fingerprints": [
+        "7B:BB:8D:07:1F:8B:14:10:AA:63:C8:53:89:1A:52:D3:0F:F1:0C:6E:4F:59:B0:55:A8:F3:80:19:DE:82:6C:72"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.phantom",
+      "sha256_cert_fingerprints": [
+        "9A:2C:24:39:D0:47:71:7A:36:46:24:B3:65:12:29:48:3F:85:30:C9:1E:B5:20:88:33:52:1F:F2:7F:6B:84:01"
+      ]
+    }
+  }
+]

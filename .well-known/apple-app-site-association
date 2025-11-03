@@ -1,0 +1,22 @@
+{
+  "webcredentials": {
+    "apps": []
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3L52R7W5DQ.com.phantom.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "EQHXZ8M8AV.com.wallet.crypto.trustapp",
+        "paths": ["*"]
+      },
+      {
+        "appID": "HK42G92K53.io.metamask",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
